@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.log
+.env*
+tmp/
+/2作品集pdf.pdf
+/简历(10).pdf
+/tsconfig.tsbuildinfo
+/GitHub上传包/
